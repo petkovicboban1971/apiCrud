@@ -20,7 +20,7 @@
 					<thead>
 						<tr>
 							<th>Ime</th>
-							<th>Prezime</th>
+							<th>Prezime</th> 
 							<th style="width: 5%"><center>Uredi</center></th>
 							<th style="width: 5%"><center>Obriši</center></th>
 						</tr>
